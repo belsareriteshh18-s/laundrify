@@ -1,1 +1,1 @@
-service clean website ,This project was inspired by a startup idea that my team and I developed during the 3rd semester as part of our academic coursework. The startup concept motivated me to transform the idea into a fully de
+service clean website ,This project was inspired by a startup idea that my team and I developed during the 3rd semester as part of our academic coursework. The startup concept motivated me to transform the idea into a fully development of this site
